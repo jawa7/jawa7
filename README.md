@@ -1,7 +1,8 @@
-- 👋 Hi, I’m Ilya Bondarenko
-- 💻 I’m a Kotlin backend developer with a background in computational linguistics
-- ☁️ I work with Spring Boot, PostgreSQL, AWS, and REST/GraphQL APIs
-- 🧪 I care about clean code, testing, and sustainable architecture
-- 📚 Currently learning TypeScript, Node.js, Next.js, and NestJS
-- 🚀 Interested in distributed systems and cloud infrastructure
-- 🤝 Open to collaboration on meaningful backend or Kotlin/TypeScript-based projects
+- 👋 Hi, I’m Ilya Bondarenko, a Brno-based backend engineer with a background in computational linguistics.
+- 💻 I work with TypeScript/Node.js, NestJS, Kotlin/Spring, PostgreSQL, Redis, AWS, BullMQ, and REST APIs.
+- 🤖 I’ve shipped production LLM features with retrieval, vector deduplication, and cost-based model routing.
+- 🧰 My personal projects include agent workflows, local model routing, and AI evaluation tools.
+- 🧪 I care about testing, clear safety boundaries, and making AI behavior measurable.
+- 🎓 I’m studying Open Informatics at Mendel University in Brno.
+- 🎯 I’m interested in backend and AI/LLM engineering, developer tools, AI evaluation, and AI product work.
+- 🤝 Open to roles and project collaborations in these areas.
